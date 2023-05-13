@@ -15,5 +15,6 @@ public class TestClass  {
         System.out.println("des");
         System.out.println("destrict");
         System.out.println("test msg");
+         System.out.println("test msg2");
     }
 }
