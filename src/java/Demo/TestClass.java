@@ -11,5 +11,7 @@ import com.oracle.wls.shaded.org.apache.bcel.generic.AALOAD;
  * @author Admin
  */
 public class TestClass  {
-    
+    public static void main(String[] args) {
+        System.out.println("des");
+    }
 }
