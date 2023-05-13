@@ -13,6 +13,6 @@ import com.oracle.wls.shaded.org.apache.bcel.generic.AALOAD;
 public class TestClass  {
     public static void main(String[] args) {
         System.out.println("des");
-        System.out.println("destrict");
+        System.out.println("destrict1");
     }
 }
