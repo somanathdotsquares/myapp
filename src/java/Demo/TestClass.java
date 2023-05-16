@@ -13,8 +13,12 @@ import com.oracle.wls.shaded.org.apache.bcel.generic.AALOAD;
 public class TestClass  {
     public static void main(String[] args) {
         System.out.println("des");
+<<<<<<< HEAD
         System.out.println("destrict");
         System.out.println("test msg");
          System.out.println("test msg2");
+=======
+        System.out.println("destrict1");
+>>>>>>> origin/master
     }
 }
