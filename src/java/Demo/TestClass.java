@@ -20,5 +20,7 @@ public class TestClass  {
 =======
         System.out.println("destrict1");
 >>>>>>> origin/master
+        
+        System.out.println("destrict2");
     }
 }
